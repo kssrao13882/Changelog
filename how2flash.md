@@ -1,7 +1,4 @@
----
-title: Marble Flashing Instructions
-description: Brought to you by KSSRAO
----
+**Flashing Instructions for Marble: By KSSRAO**
 
 **Before start flashing.....**
 
@@ -48,3 +45,5 @@ description: Brought to you by KSSRAO
 - Flash the ROM and reboot to recovery
 - Flash the Nikgapps and reboot to recovery again
 - Reboot To System
+
+**Happy Flashing.......Enjoy the Rom**
