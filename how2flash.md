@@ -3,8 +3,6 @@ title: Marble Flashing Instructions
 description: Brought to you by KSSRAO
 ---
 
-<a href="#"><img align="center" img src="/assets/installation.png" /></a>
-
 **Before start flashing.....**
 
 - Always have backup of your internal storage
