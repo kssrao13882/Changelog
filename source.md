@@ -1,0 +1,15 @@
+Source Changelog 06.01.2024
+- Updated to latest January Security Patch 
+- Added new Boot Animation
+- Added new settings styles
+- Added new Settings header styles
+- Added volume panel styles
+- Added Clone app
+- Added Status Bar Padding options
+- Added Pocket Judge Toggle
+- Added Custom Clock Color
+- Added ability to resize QS & Status bar Clock
+- Added toggle to always show the time in media player
+- Added Island Notification
+- Added option for left volume panel
+- Many more changes that I am Lazy to write.........
