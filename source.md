@@ -1,3 +1,44 @@
+Source Changelog 27.01.2024
+- Overlay: Import UIStyles from Bootleggers
+- Overlay: Fix Battery-meter view for some IconPacks
+- fonts: Bring in IOS 16 clock fonts
+- Overlay: Update some UI Style
+- Overlay: Drop some useless overlay
+- Themes: Fix Color issue on Dual tone Black Theme
+- Launcher3: Introduce overview scrolling scale animation
+- Add omniJaws support
+- Switch to AOSP Dialer from Google Dialer
+- overlay: Add new SystemUI clocks
+- Implement hide gestural navigation hint bar and more nav bar customizations
+- overlay: Settings: Show memory usage in app info
+- overlay: Enable app-cloning feature in Settings
+- Fix issue with in built images not applying in QS header
+- Settings: Add FastCharge preference into Battery settings
+- Settings: Introduce automated Sleep Mode
+- Settings: Reset battery stats
+- Settings: Design Changes for About Phone
+- Settings: Add option to cycle through ringer modes
+- Settings: Introduce Adaptive Playback
+- Settings: Add option to scramble pin layout when unlocking
+- Keyguard: Forward port lockscreen quick unlock
+- Settings: Implement cutout force full screen
+- settings: Update illustrations from Lottiefiles
+- Settings: Add back increasing ring feature
+- SuperiorSpecUtils: Fix total ram calculation for some devices
+- SuperiorLab: Allow to always show the time in media player
+- SuperiorLab: Add ability to resize QS & Statusbar Clock
+- SuperiorLab: Sensor block per-package switch
+- SuperiorLab: Add Volume Panel TextView
+- SuperiorLab: Add Pocket judge toggle
+- SuperiorLab: Add status bar lyric
+- SuperiorLab: User toggle for GamesProp
+- SuperiorLab: Introduce Lockscreen Style
+- SuperiorLab: User toggle for unlimited photos storage
+- SuperiorLab: Add double tap to sleep gesture
+- SuperiorLab: Add support for Lockscreen clock fonts
+- SuperiorLab: Spoof current storage encryption status
+- Many more under the hood changes and improvements which am literally feeling tired to write.........
+
 Source Changelog 06.01.2024
 - Updated to latest January Security Patch 
 - Added new Boot Animation
