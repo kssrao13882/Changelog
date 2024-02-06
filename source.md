@@ -1,3 +1,53 @@
+Source Changelog 06.02.2024
+- Merged February Security Patch 14.0.0_r27 from Google 
+- OmniJaws: Fix weather icons for Scattered & Overcast clouds on OWM for Google icon pack
+- OmniJaws: Fix scattered clouds night icon on OWM provider
+- OmniJaws: Fix weather client scattered clouds night icon
+- OmniJaws: Update OWM keys
+- Launcher3: Fix TaskbarModelCallbacksFactory instantiation
+- SettingsGoogle: Follow monet color in settings icon like AOSP
+- prebuilt: Update APNs for Boost Mobile
+- prebuilts: Update ViaBrowser, DuckDuckGo
+- Themes: Add Brightness Slider margin for A11 QS style
+- Themes: Fix Some QS Styles
+- Themes: brightness: Simplify brightness thumb drawable
+- Themes: Turn more color components to black
+- ColorPickerRepositoryImpl: Don't crash for unknown style selection
+- Import ExtendedColorStub from Husky QPR1
+- SoundSettings: Add charging vibration settings
+- Settings: Show About phone instead of Android version in header
+- Settings: Optional haptic feedback on back gesture [1/2]
+- Fix sometimes WiFi tethering multiple restarts if configuration changed.
+- Settings: Add custom value support for device info
+- Settings: Fix up pixelated user icon
+- Settings: Add a preference to battery optimization page
+- Settings: move app compatibility preference to apps and notifications
+- Settings: Improve force fullscreen settings layout
+- Settings: Fix a null pointer exception on cutout force full screen
+- Settings: Add vibration patterns from OOS
+- Settings: Preview ringtone vibration pattern
+- Settings: Allow toggling screen off fod
+- Settings: gestures: Enable Cycle through ringer modes for all
+- Settings: Fix Smooth Display Summary String
+- SuperiorLab: Revamp Team Section
+- SuperiorLab: Spoof current storage encryption status [2/2]
+- SuperiorLab: Move Ripple Effect to Fingerprint Category
+- SuperiorLab: Add option to enable AOD on charging only
+- SuperiorLab: Add more LS Clocks
+- SuperiorLab: Bring back UDFPS animation
+- SuperiorLab: Forward port pixel navbar animation from redfin 11
+- SuperiorLab: Allow extended/"L" back swipe to trigger actions/app/activities
+- SystemUI: Don't show volume dialog when panel is showing
+- BatteryStatsViewer: Move it to Battery Section
+- [Bugfix]Avoid device reboot caused by SecurityException.
+- SettingsProvider: Faster app opening with lesser animations
+- Lockscreen Clock: Fix custom clock time updates
+- IslandView: Fix and improve notification regex filtering
+- SystemUI: Custom clock style improvements
+- superior: Add SettingsIntelligenceGooglePrebuilt
+- config: Build BatteryStatsViewer
+- Many more under the hood changes and improvements
+
 Source Changelog 27.01.2024
 - Overlay: Import UIStyles from Bootleggers
 - Overlay: Fix Battery-meter view for some IconPacks
