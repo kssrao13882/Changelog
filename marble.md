@@ -1,3 +1,16 @@
+Device Changelog 07.02.2024
+- Fixed Green tint at low brightness
+- Ship Via Browser by default again
+- Remove order preference for Thermal Profiles (for improved aesthetics in battery section)
+- Added smooth display Toggle
+- Fixed some Janks
+- Tuned charging control parameters
+- Silence some spammy logging (reduces idle cpu usage)
+- Tune ambient display burn-in protection
+- Updated Silvercore Kernel to latest 5.10.209
+- Updated ViperFX app to latest 6.1
+- In order to fix crashing ott apps, widevine compromised to L3 for now
+
 Device Changelog 27.01.2024
 - Fixed issue with night light
 - Fixed issue with extra dark
