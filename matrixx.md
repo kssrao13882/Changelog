@@ -1,0 +1,15 @@
+<b>Source Changelog 16 Feb 2024:</b>
+- Fixed Random Reboots 
+- Fixed PixelProps spoofing
+- Adedd recent action on Long swipe 
+- Fixed About phone theming
+- Fixed few battery style showing empty
+- Increased max fling velocity (Smooth scrolling)
+- Fixed Open weather issue
+- Set Met Norway default weather provider
+- Added Battery charge warning
+- Make Lockscreen timeout configurable
+- Allow setting custom symbol near text on charging
+- Added Power Menu animations
+- Added Toast animations
+- Added Power/reboot menu transparency
