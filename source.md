@@ -1,3 +1,14 @@
+<b>Source Changelog 18 Feb 2024:</b>
+- Added 3 more condition icon packs in weather settings 
+- Cleaned up face unlock icon animation
+- Enabled pulsing animation for faceunlock
+- Added support for application downgrade
+- Made QS carrier view vertical
+- Added support for OTA (Users can do OTA from upcoming releases, not current one)
+- Added switch for battery led
+- Added warning summary for pocket judge
+- Miscellaneous fixes and improvements
+
 Source Changelog 06.02.2024
 - Merged February Security Patch 14.0.0_r27 from Google 
 - OmniJaws: Fix weather icons for Scattered & Overcast clouds on OWM for Google icon pack
