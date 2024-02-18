@@ -25,7 +25,7 @@
 - Wipe Dalvik/Art Cache, cache and data
 - Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) China users use global firmware till china hyperos is out
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Tap on format data, type yes and reboot to system
 
 ## If already on HyperOS based custom rom
@@ -55,7 +55,7 @@
 - Boot into recovery
 - Wipe Dalvik/Art Cache, cache and data
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Tap on format data, type yes and reboot to system
 
 **Dirty flash:**
@@ -63,7 +63,7 @@
 - Boot into recovery
 - Wipe Dalvik/ArtCache and Cache
 - Flash the ROM and reboot to recovery
-- Flash the Nikgapps and reboot to recovery again
+- Flash the Nikgapps
 - Reboot To System
 
 **Happy Flashing.......Enjoy the Rom**
