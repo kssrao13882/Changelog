@@ -1,3 +1,28 @@
+<b>Source Changelog 10 March 2024:</b>
+- Fully rebased QPR1 source (Feb Patch)
+- Implemented OnePlus Style QS Panel
+- Added application downgrade feature
+- Added Switch Styles from Iconify
+- Added switch for media output controller
+- Added Optional Colored QS Notification icons
+- Added more clock BG chip styles
+- Added disabling QS on secure lockscreen
+- Added support for disable Network Traffic indicators
+- Fixed Realme Link crash
+- Implemented preference category UI
+- Fixed battery percentage font padding
+- Updated fingerprint for CTS pass
+- Forward port HD & wifi calling statusbar icons
+- Added new QS Header Image Section
+- Fixed memory management issues
+- Fixed some album-art not showing on Island view
+- Updated GamePropsUtils
+- Added more Weather Icon Pack
+- Added new Refresh rate Selector Page
+- Added background chip for memory info view
+- Fixed QS customizer background color
+- And many under the hood changes
+
 <b>Source Changelog 18 Feb 2024:</b>
 - Added 3 more condition icon packs in weather settings 
 - Cleaned up face unlock icon animation
