@@ -13,17 +13,17 @@
 
 ## Gapps variant
 - Download the ROM
-- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
+- Boot into recovery 
 - Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) China users use global firmware till china hyperos is out 
+- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) 
 - Flash rom
 - Tap on format data, type yes and reboot to system
 
 # Vanilla Variant
 - Download the ROM and Gapps package from nikgapps
-- Boot into recovery (Any A14 twrp recovery version 8.0 or higher must be fine) 
+- Boot into recovery 
 - Wipe Dalvik/Art Cache, cache and data
-- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/) China users use global firmware till china hyperos is out
+- Flash your region's latest HyperOS firmware from [**#here**](https://xiaomifirmwareupdater.com/firmware/marble/)
 - Flash the ROM and reboot to recovery
 - Flash the Nikgapps
 - Tap on format data, type yes and reboot to system
